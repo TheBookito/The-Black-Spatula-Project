@@ -20,6 +20,6 @@ a methodological precedent, or something else? This contextual use guides the pl
 
 Models used:
 o1, o1-pro
-Gemini 2.0 FTE
-DeepSeek.
-Claude 3.5 Sonnet.
+Gemini 2.0, Gemini 2.0 FTE
+DeepSeek
+Claude 3.5 Sonnet

@@ -17,3 +17,8 @@ If the error is peripheral—like a minor statistical oversight that doesn’t i
 Contextual Understanding of Impact:
 By performing semantic analysis, the platform understands how the cited source was used in the text—was it used for a background fact, a theoretical foundation,
 a methodological precedent, or something else? This contextual use guides the platform’s assessment of the severity of the error’s impact on the citing paper’s claims.
+
+Models used:
+o1, o1-pro
+Gemini 2.0 FTE
+DeepSeek.
